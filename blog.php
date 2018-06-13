@@ -37,7 +37,7 @@ require( 'wp_blog/wp-blog-header.php' );
 					</li>
 					<li><a class="current" href="blog.php">Blog</a>
 					</li>
-					<li><a href="about.html">About</a>
+					<li><a href="projects.html">Projects</a>
 					</li>
 					<li><a href="contact.html">Contact</a>
 					</li>
@@ -63,7 +63,7 @@ require( 'wp_blog/wp-blog-header.php' );
 					</li>
 					<li><a class="current" href="blog.php">Blog</a>
 					</li>
-					<li><a href="about.html">About</a>
+					<li><a href="projects.html">Projects</a>
 					</li>
 					<li><a href="contact.html">Contact</a>
 					</li>

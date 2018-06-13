@@ -275,6 +275,48 @@ hr {
 #ham-nav li {
     margin-top: 25px;
 }
+#projects {
+    border-spacing: 75px 20px;
+}
+#FlashID {
+    -webkit-box-shadow: 3px 6px 6px 2px #575757;
+    box-shadow: 3px 6px 6px 2px #575757;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 50px;
+}
+/* Chat Styles */
+#chatOutput {
+    height: 450px;
+    overflow-y: auto;
+}
+.message {
+    font-size: small;
+    margin-bottom: 15px;
+}
+.time {
+	
+}
+.username {
+    font-weight: bold;	
+}
+.msgCont {
+    background-color: #FFBB00;
+    border-radius: 6px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 8px;
+    padding-right: 8px;
+	display: inline-block;
+	width: 100px;
+	word-break:normal;
+	vertical-align: top;
+}
+
+
+
+
 
 @supports (position: fixed) {
 	.menu,
@@ -289,6 +331,9 @@ hr {
 	#header {
 		display: none;
 	}
+tbody tr td {
+}
+
 	#hamburger {
 		display: block;
 	}
